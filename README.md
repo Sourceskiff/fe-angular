@@ -1,2 +1,2 @@
-# fe angular
+# angular
 Frontend project
