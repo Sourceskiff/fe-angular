@@ -1,3 +1,3 @@
 # angular
-# Frontend project
+# Frontend
 # tests
