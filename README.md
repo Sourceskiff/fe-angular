@@ -1,3 +1,2 @@
 # angular
-# Frontend
-# tests
+# Frontend tests
